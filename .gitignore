@@ -1,0 +1,9 @@
+.gradle
+build/
+
+#From IntelliJ
+out
+.idea
+
+#from logback
+log/
